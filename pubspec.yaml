@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  youtube_explode_dart: ^1.10.4 # لجلب روابط الفيديو والصوت من يوتيوب
+  permission_handler: ^11.3.1   # لطلب أذونات التخزين في الهاتف
+  path_provider: ^2.1.3         # لمعرفة مسارات مجلدات الهاتف
+  dio: ^5.4.3                   # لتحميل الملفات وتتبع نسبة التحميل
